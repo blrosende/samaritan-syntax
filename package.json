@@ -1,0 +1,17 @@
+{
+  "name": "samaritan-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light syntax theme based on Solarized Light that uses a minimal syntax highlighting",
+  "keywords": [
+    "minimal",
+    "light",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/kinahwatts/samaritan-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
